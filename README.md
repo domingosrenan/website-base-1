@@ -53,4 +53,4 @@ npm start
 
 MIT License
 
-Copyright (c) 2019 Victor Shinya
+Copyright (c) 2019 Renan Domingos Alves Vieira

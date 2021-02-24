@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Victor Kazuyuki Shinya <vshinya@br.ibm.com>",
+  "author": "Renan Domingos Alves Vieira <domingos.renan@gmail.com>",
+  "lastmodified": "Renan Domingos Alves Vieira",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
